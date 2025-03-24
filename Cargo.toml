@@ -1,0 +1,10 @@
+[package]
+name = "fortrust"
+edition = "2024"
+version = "0.0.1"
+
+[dependencies]
+libc = "*"
+
+[build-dependencies]
+cc = "*"
