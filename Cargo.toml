@@ -7,4 +7,4 @@ version = "0.0.1"
 libc = "*"
 
 [build-dependencies]
-cc = "*"
+cc = "1.2"
