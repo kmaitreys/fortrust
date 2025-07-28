@@ -18,3 +18,5 @@ Cargo.lock
 
 *.o
 *.mod
+
+.DS_Store
